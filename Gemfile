@@ -8,6 +8,7 @@ gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'capybara'
 gem 'simplecov', require: false, group: :test
+gem 'pg'
 
 group :development, :test do
   gem "rubocop", "1.20"

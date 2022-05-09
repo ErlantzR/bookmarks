@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/timgraham/Projects/Bookmarks/app.rb": {
+      "/Users/erlantzramossanchez/Projects/bookmarks/app.rb": {
         "lines": [
           1,
           1,
@@ -26,8 +26,10 @@
           null
         ]
       },
-      "/Users/timgraham/Projects/Bookmarks/lib/bookmark.rb": {
+      "/Users/erlantzramossanchez/Projects/bookmarks/lib/bookmark.rb": {
         "lines": [
+          1,
+          null,
           1,
           null,
           1,
@@ -39,13 +41,19 @@
           1,
           null,
           2,
+          2,
+          2,
+          6,
+          null,
+          null,
+          2,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/timgraham/Projects/Bookmarks/spec/bookmark_spec.rb": {
+      "/Users/erlantzramossanchez/Projects/bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -62,7 +70,7 @@
           null
         ]
       },
-      "/Users/timgraham/Projects/Bookmarks/spec/features/print_bookmarks_spec.rb": {
+      "/Users/erlantzramossanchez/Projects/bookmarks/spec/features/print_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -72,7 +80,7 @@
           null
         ]
       },
-      "/Users/timgraham/Projects/Bookmarks/spec/features/test_index_spec.rb": {
+      "/Users/erlantzramossanchez/Projects/bookmarks/spec/features/test_index_spec.rb": {
         "lines": [
           1,
           1,
@@ -84,6 +92,6 @@
         ]
       }
     },
-    "timestamp": 1652106593
+    "timestamp": 1652114548
   }
 }
