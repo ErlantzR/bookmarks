@@ -6,6 +6,10 @@
 As a user
 So I can check my bookmarks
 I want to see a list of my bookmarks
+
+As a user
+So I can have a list of bookmarks
+I want to add new bookmarks to the list
 ```
 
 | Object_type    |   Object     |

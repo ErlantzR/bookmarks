@@ -5,11 +5,10 @@ describe Bookmark do
   context "user can view their bookmarks" do
     
     it "the .all method return a list of all bookmarks" do
-      connection = PG.connect(dbname: 'bookmark_manager_test')
 
-      connection.exec("INSERT INTO bookmarks (url) VALUES('http://www.makersacademy.com');")
-      connection.exec("INSERT INTO bookmarks (url) VALUES('http://www.destroyallsoftware.com');")
-      connection.exec("INSERT INTO bookmarks (url) VALUES('http://www.google.com');")
+      Bookmark.add("http://www.makersacademy.com")
+      Bookmark.add("http://www.destroyallsoftware.com")
+      Bookmark.add("http://www.google.com")
 
       bookmarks = Bookmark.all
 
@@ -19,6 +18,16 @@ describe Bookmark do
 
     end
 
+  end
+
+  context "#add" do
+    it ".add method adds new bookmark to the list" do
+      Bookmark.add('http://www.google.com')
+
+      bookmarks = Bookmark.all
+
+      expect(bookmarks).to include('http://www.google.com')
+    end
   end
 
 end

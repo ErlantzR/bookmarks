@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/erlantzramossanchez/Projects/bookmarks/app.rb": {
+      "/Users/yaroslavayates/Documents/Projects/bookmarks/app.rb": {
         "lines": [
           1,
           1,
@@ -13,7 +13,8 @@
           null,
           null,
           1,
-          0,
+          3,
+          3,
           null,
           null,
           1,
@@ -22,30 +23,40 @@
           null,
           null,
           1,
-          null,
           null
         ]
       },
-      "/Users/erlantzramossanchez/Projects/bookmarks/lib/bookmark.rb": {
+      "/Users/yaroslavayates/Documents/Projects/bookmarks/lib/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
           null,
           1,
-          2,
-          2,
+          5,
+          5,
           null,
           0,
           null,
           null,
-          2,
-          8,
+          5,
+          13,
+          null,
+          null,
+          1,
+          5,
+          5,
+          null,
+          0,
+          null,
+          null,
+          5,
+          null,
           null,
           null
         ]
       },
-      "/Users/erlantzramossanchez/Projects/bookmarks/spec/bookmark_spec.rb": {
+      "/Users/yaroslavayates/Documents/Projects/bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -54,7 +65,6 @@
           1,
           null,
           1,
-          1,
           null,
           1,
           1,
@@ -67,13 +77,35 @@
           1,
           null,
           null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/erlantzramossanchez/Projects/bookmarks/spec/features/print_bookmarks_spec.rb": {
+      "/Users/yaroslavayates/Documents/Projects/bookmarks/spec/features/add_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/yaroslavayates/Documents/Projects/bookmarks/spec/features/print_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -93,6 +125,6 @@
         ]
       }
     },
-    "timestamp": 1652196146
+    "timestamp": 1652200989
   }
 }
