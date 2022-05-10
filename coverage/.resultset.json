@@ -13,7 +13,7 @@
           null,
           null,
           1,
-          1,
+          0,
           null,
           null,
           1,
@@ -33,22 +33,14 @@
           1,
           null,
           1,
-          null,
-          2,
-          null,
-          null,
-          null,
-          1,
-          null,
           2,
           2,
-          2,
-          6,
+          null,
+          0,
           null,
           null,
           2,
-          null,
-          null,
+          8,
           null,
           null
         ]
@@ -64,6 +56,17 @@
           1,
           1,
           null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
           null,
           null,
           null,
@@ -75,23 +78,21 @@
           1,
           1,
           1,
-          1,
           null,
-          null
-        ]
-      },
-      "/Users/erlantzramossanchez/Projects/bookmarks/spec/features/test_index_spec.rb": {
-        "lines": [
-          1,
           1,
           1,
           1,
           null,
+          1,
+          null,
+          1,
+          1,
+          1,
           null,
           null
         ]
       }
     },
-    "timestamp": 1652114548
+    "timestamp": 1652196146
   }
 }
